@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"markdown.marp.themes": [
+			"./theme/base.css"
+		],
+		"markdown.editor.wordWrap": "on",
+		"markdown.editor.quickSuggestions": true,
+		"markdown.editor.snippetSuggestions": "top"
+	}
+}
