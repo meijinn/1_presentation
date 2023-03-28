@@ -6,7 +6,9 @@
 	],
 	"settings": {
 		"markdown.marp.themes": [
-			"./theme/base.css"
+			"./theme/base.css",
+			"./theme/academic.css",
+			"./theme/olive.css"
 		],
 		"markdown.editor.wordWrap": "on",
 		"markdown.editor.quickSuggestions": true,

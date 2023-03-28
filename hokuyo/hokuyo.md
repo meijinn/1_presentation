@@ -1,12 +1,12 @@
 ---
 marp: true
-theme: base
+theme: academic
 size: 16:9
 paginate: true
 headingDivider: 2
 math: mathjax
 header: LIDARの活用方法について
-footer: 2022/09/16 明石高専 専攻科 髙橋尚太郎
+#footer: 2022/09/16 明石高専 専攻科 髙橋尚太郎
 
 style: |
     section.split {
@@ -32,7 +32,7 @@ style: |
 
 ---
 
-# LIDARの活用方法について
+### LIDARの活用方法について
 <!--
 _class: lead
 _paginate: false
