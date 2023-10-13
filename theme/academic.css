@@ -85,6 +85,10 @@ section.main header {
   font-weight: 700;
 }
 
+section.main footer {
+  border-bottom: 0.3em solid #800000;
+}
+
 footer {
   font-weight: 400;
   padding-left: 40px;
@@ -112,4 +116,34 @@ img[alt~="center"] {
 
 code {
   font-family: 'Source Code Pro', monospace;
+}
+
+.split {
+  display: table;
+  width: 100%;
+}
+.split-item {
+  display: table-cell;
+  padding: 0px;
+  width: 40%;
+}
+.split-left {
+  position: relative;
+}
+.split-left__inner {
+  height: 100%;
+  position: fixed;
+  width: 80%;
+}
+.split-right {
+  position: relative;
+}
+.split-right__inner {
+  height: 420px;
+}
+
+
+.split img {
+    width:49%;    /* 横幅を割合で指定 */
+    height: auto;  /* 高さは自動指定 */
 }
